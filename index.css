@@ -42,32 +42,35 @@ margin: 3% auto;
   background-image: url('tom1.png');
 }
 
-.a_button{
+.a{
 background-image: url("tom2.png");
 
 }
 
-.s_button{
+.s{
 background-image: url("tom3.png");
 
 }
 
-.d_button{
+.d{
 background-image: url("tom4.png");
 }
 
-.j_button{
+.j{
 background-image: url("snare.png");
 }
 
-.k_button{
+.k{
 background-image: url("kick.png");
 }
 
-.l_button{
+.l{
 background-image: url("crash.png");
 }
 
+.pressed{
+  opacity: 0.5;
+}
 
 .footer{
   text-align: center;
